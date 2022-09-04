@@ -51,7 +51,7 @@ We posit that application-specific blockchains like Pocket Network have the abil
 Pocket achieves this through an incentive design that rewards Service Nodes for collectively achieving economies of scale:
 
 1. Load balancing at the protocol level incentivizes decentralization and minimizes the need for buffers
-2. Staking and inflation enables more efficient resource allocation
+2. Staking and inflation enable more efficient resource allocation
 3. Low marginal costs reduce barriers to entry, allowing anyone to participate at any scale
 
 ### Load balancing at the protocol level
